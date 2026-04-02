@@ -9,3 +9,6 @@ I approach problems with an analytical mindset and a focus on structuring clear,
 ## Currently
 - Improving full-stack development skills  
 - Exploring advanced applications of AI in cybersecurity and real-world systems
+
+## Tech
+Java • Python • SQL • Flutter • Firebase
